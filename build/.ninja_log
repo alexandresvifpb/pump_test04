@@ -1037,3 +1037,4 @@
 3038	3943	7084857433239144	pump_test04.elf	97b0df2c0b9a78ed
 3943	4236	7084857436288690	.bin_timestamp	d14b067f3409513
 4237	4342	0	esp-idf/esptool_py/CMakeFiles/app_check_size	f0776aa4aacb60f8
+1	156105830	0	CMakeFiles/confserver	edec466feefd3fd5
